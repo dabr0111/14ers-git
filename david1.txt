@@ -1,1 +1,2 @@
-One line only
+Step 1: Created on local repo: One line only
+Step 3: Added seconda line
